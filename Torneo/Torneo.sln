@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "EntidadesTorneo", "EntidadesTorneo\EntidadesTorneo.vbproj", "{50D522F1-E944-4A15-977F-D70CA9A4E313}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "TestEntidades", "TestEntidades\TestEntidades.vbproj", "{EDD41F64-F60D-40EE-B564-6129C70BA583}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{50D522F1-E944-4A15-977F-D70CA9A4E313}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50D522F1-E944-4A15-977F-D70CA9A4E313}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50D522F1-E944-4A15-977F-D70CA9A4E313}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50D522F1-E944-4A15-977F-D70CA9A4E313}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDD41F64-F60D-40EE-B564-6129C70BA583}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDD41F64-F60D-40EE-B564-6129C70BA583}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDD41F64-F60D-40EE-B564-6129C70BA583}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDD41F64-F60D-40EE-B564-6129C70BA583}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5B638A44-CE6B-453A-8A77-0B99335F7B34}
+	EndGlobalSection
+EndGlobal
